@@ -1,0 +1,11 @@
+.box{
+	min-height: 100px;
+	background-color: deeppink;
+	margin-top: 10px;
+}
+.box5{
+	min-height: 100px;
+	background-color: yellow;
+	margin-top: 10px;
+
+}
